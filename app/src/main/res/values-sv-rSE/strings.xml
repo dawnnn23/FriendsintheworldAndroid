@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="submit">"lämna"</string>
+    <string name="hintName">"Vänligen fyll i ditt namn"</string>
+    <string name="welcome">Hej och välkommen!</string>
+    <string name="instructions">"Klicka på den grupp du vill registrera till eller skapa en ny grupp genom att klicka på knappen"</string>
+    <string name="createGroup">"SKAPA GRUPP"</string>
+    <string name="unregister">"UNREGISTER"</string>
+    <string name="instructionsForm">"Skapa ny grupp och registrera dig"</string>
+    <string name="formHint">"Ange gruppnamn"</string>
+    <string name="buttonForm">"SKAPA GRUPP"</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendsInTheWorld</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="submit">"SUBMIT"</string>
+    <string name="hintName">"Please enter your name"</string>
+    <string name="welcome">"Hello and welcome!"</string>
+    <string name="instructions">"Click on the group you want to register to or create a new group by clicking the button"</string>
+    <string name="createGroup">"CREATE GROUP"</string>
+    <string name="unregister">"UNREGISTER"</string>
+    <string name="instructionsForm">"Create new group and register"</string>
+    <string name="formHint">"Enter group name"</string>
+    <string name="buttonForm">"CREATE GROUP"</string>
+</resources>
